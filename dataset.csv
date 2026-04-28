@@ -1,21 +1,85 @@
 ﻿text,label
-"Hóa đơn GTGT Số: 001/2024 Tổng tiền: 5.000.000đ Thuế VAT: 500.000đ",0
-"Công ty TNHH ABC MST: 0123456789 Hóa đơn bán hàng Ngày 15/01/2024",0
-"HÓA ĐƠN Đơn vị bán hàng Người mua hàng Tổng cộng tiền thanh toán",0
-"Hóa đơn số 456 ngày 20/01/2024 tổng tiền 2.500.000",0
-"Hóa đơn điện nước tháng 1 năm 2024 tổng tiền 850.000",0
-"Hợp đồng mua bán số 01/HĐ BÊN A: Công ty XYZ BÊN B: Công ty ABC Điều 1 Điều 2",1
-"HỢP ĐỒNG LAO ĐỘNG Thời hạn: 12 tháng Lương: 15.000.000đ Ngày bắt đầu",1
-"Hợp đồng thuê nhà Bên cho thuê Bên thuê Thời hạn thuê Giá thuê hàng tháng",1
-"Hợp đồng cung cấp dịch vụ giữa công ty A và công ty B",1
-"Hợp đồng bán xe hơi điều khoản thanh toán 12 tháng",1
-"CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM CHỨNG MINH NHÂN DÂN Số: 001234567 Họ tên Ngày sinh Quê quán",2
-"Căn cước công dân Số: 001234567890 Họ và tên Ngày tháng năm sinh Giới tính Quốc tịch",2
-"CMND 012345678 Ngày cấp 01/01/2015 Nơi cấp CA Hà Nội",2
-"Chứng minh nhân dân số 123456789 cấp ngày 10/05/2010",2
-"Căn cước công dân số 987654321098 cấp tại Hà Nội",2
-"Giấy xác nhận Xác nhận ông/bà làm việc tại công ty",3
-"Thư mời họp Kính gửi Nội dung cuộc họp Thời gian Địa điểm",3
-"Đơn xin nghỉ phép Kính gửi ban giám đốc Lý do nghỉ",3
-"Giấy chứng nhận đạt chuẩn ISO",3
-"Thư báo tin tuyển dụng",3
+"Hóa đơn GTGT Số: 001/2024 Tổng tiền: 5.000.000đ Thuế VAT: 500.000đ Công ty TNHH ABC",0
+"Công ty TNHH ABC MST: 0123456789 Hóa đơn bán hàng Ngày 15/01/2024 Người mua Nguyễn Văn A",0
+"HÓA ĐƠN Đơn vị bán hàng Công ty XYZ Người mua hàng Tổng cộng tiền thanh toán 10.000.000",0
+"Hóa đơn số 456 ngày 20/01/2024 tổng tiền 2.500.000 Mã số thuế 1234567890",0
+"Hóa đơn điện nước tháng 1 năm 2024 tổng tiền 850.000 Công ty cấp nước Hà Nội",0
+"Hóa đơn GTGT bán hàng hóa Số tiền trước thuế 5.000.000 Thuế GTGT 10% Tổng cộng 5.500.000",0
+"Biên lai bán hàng ngày 25/01/2024 Số tiền 3.200.000 Người bán Ngân hàng Agribank",0
+"Chứng từ bán hàng hóa Cộng ty Điện lực Số chứng từ 789 Ngày 30/01/2024 Tổng tiền 7.500.000",0
+"Hóa đơn dịch vụ giáo dục Tháng 2 năm 2024 Học sinh Nguyễn Văn B Học phí 5.000.000",0
+"Phiếu thu tiền dịch vụ Ngày 10/02/2024 Nội dung Thu học phí Số tiền 2.500.000",0
+"Hóa đơn tiền điện Tháng 01/2024 Công ty cấp điện Miền Bắc Mã khách hàng 123456789 Tiền điện 2.500.000 VAT 230.000 Tổng 2.730.000",0
+"Hóa đơn Internet Công ty Viettel Tháng 02/2024 Gói cước Internet 30Mbps 500.000/tháng Tiền khác 50.000 Tổng 550.000",0
+"Hóa đơn nước Công ty Cấp nước Hà Nội Tháng 01/2024 Lượng nước sử dụng 50m3 Giá nước 12.000/m3 Tiền nước 600.000 VAT 54.000 Tổng 654.000",0
+"Hóa đơn bán hàng số 100 Ngày 28/01/2024 Tên khách hàng Công ty XYZ Địa chỉ Hà Nội Mã sản phẩm Số lượng Đơn giá Thành tiền",0
+"Hóa đơn thanh toán Công ty cấp gas Petrolimex Tháng tính tiền 01/2024 Số khách hàng 987654 Tiền gas 3.500.000",0
+"Hóa đơn khám bệnh Bệnh viện Bạch Mai Ngày khám 15/01/2024 Bệnh nhân Trần Văn C Chi phí khám 500.000 Chi phí xét nghiệm 1.000.000 Tổng cộng 1.500.000",0
+"Hóa đơn bán quần áo Cửa hàng ABC Fashion Ngày 20/01/2024 Sản phẩm áo khoác Số lượng 2 Đơn giá 500.000 Tổng 1.000.000 Giảm giá 100.000 Thanh toán 900.000",0
+"Hóa đơn bán laptop Công ty điện tử Techworld Ngày 10/02/2024 Sản phẩm Dell XPS 15 Giá bán 25.000.000 Bảo hành 24 tháng Tổng 25.000.000",0
+"Hợp đồng mua bán số 01/HĐ/2024 BÊN A: Công ty XYZ BÊN B: Công ty ABC Giá trị: 100.000.000",1
+"HỢP ĐỒNG LAO ĐỘNG Thời hạn: 12 tháng Lương: 15.000.000đ Ngày bắt đầu 01/01/2024 Ngày kết thúc 31/12/2024",1
+"Hợp đồng thuê nhà Bên cho thuê Nguyễn Văn C Bên thuê Nguyễn Văn D Thời hạn thuê 24 tháng Giá thuê 5.000.000/tháng",1
+"Hợp đồng cung cấp dịch vụ viễn thông giữa Công ty Viettel và Công ty XYZ Thời hạn 36 tháng Giá trị 500.000.000",1
+"Hợp đồng bán xe hơi Bên bán Công ty ABC Bên mua Nguyễn Văn E Loại xe Toyota Vios Giá bán 600.000.000",1
+"Hợp đồng tư vấn kinh doanh Công ty tư vấn Điều khoản 1 Phí dịch vụ 50.000.000 Thời hạn 12 tháng",1
+"Hợp đồng vay tiền Bên cho vay Ngân hàng Techcombank Bên vay Nguyễn Văn F Số tiền vay 2.000.000.000 Lãi suất 7%/năm",1
+"Hợp đồng thuê xe ô tô Bên cho thuê Công ty ABC Bên thuê Nguyễn Văn G Loại xe Huyndai Accent Giá thuê 500.000/ngày",1
+"Hợp đồng bảo hiểm Bên bảo hiểm Công ty Bảo hiểm Bảo Việt Bên được bảo hiểm Nguyễn Văn A Loại bảo hiểm Nhân thọ Thời hạn 10 năm",1
+"Hợp đồng phân phối Bên nhà sản xuất Công ty Procter & Gamble Bên phân phối Công ty XYZ Sản phẩm Hàng tiêu dùng Giá trị hợp đồng 50.000.000",1
+"Hợp đồng xây dựng Bên chủ đầu tư Công ty ABC Bên nhà thầu Công ty XYZ Công trình Tòa nhà văn phòng 10 tầng Giá trị 500.000.000.000",1
+"Hợp đồng cho thuê văn phòng Diện tích 500m2 Giá thuê 200.000/m2/tháng Thời hạn 3 năm Tổng giá trị 3.600.000.000",1
+"Hợp đồng dạy kèm Giáo viên Nguyễn Văn H Học sinh Trần Thị I Môn học Toán Thời hạn 12 tháng Học phí 5.000.000/tháng",1
+"Hợp đồng vệ sinh công nghiệp Bên cung cấp Công ty Clean Pro Bên sử dụng Công ty XYZ Phạm vi Vệ sinh toàn bộ tòa nhà Giá trị 200.000.000",1
+"CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM CHỨNG MINH NHÂN DÂN Số: 001234567 Họ tên Nguyễn Văn A Ngày sinh 01/01/1990",2
+"Căn cước công dân Số: 001234567890 Họ và tên Trần Thị B Ngày tháng năm sinh 15/05/1985 Giới tính Nữ Quốc tịch Việt Nam",2
+"CMND 012345678 Ngày cấp 01/01/2015 Nơi cấp CA Hà Nội Họ tên Lê Văn C Ngày sinh 10/10/1995",2
+"Chứng minh nhân dân số 123456789 cấp ngày 10/05/2010 Nơi cấp CA TP.HCM Họ tên Phạm Thị D Ngày sinh 20/03/1992",2
+"Căn cước công dân số 987654321098 cấp tại Hà Nội Họ tên Hoàng Văn E Quê quán Hà Nội Nơi thường trú Hà Nội",2
+"CCCD số 079191012345 cấp ngày 15/06/2022 Họ tên Đỗ Thị F Ngày sinh 05/08/1988 Địa chỉ thường trú Đà Nẵng",2
+"Hộ chiếu số ABC123456 cấp ngày 01/01/2020 Họ tên Võ Văn G Ngày sinh 12/12/1993 Quốc tịch Việt Nam",2
+"Bằng lái xe số XYZ789456 Họ tên Bùi Thị H Ngày sinh 25/07/1994 Hạng bằng A1 Ngày cấp 20/02/2020",2
+"CMND cũ số 001111111 cấp lần đầu 01/01/2005 Nơi cấp CA Hà Nội Tên Phạm Thị H Ngày sinh 30/12/1985",2
+"Giấy khai sinh Số giấy khai sinh 123456789 Họ tên Nguyễn Văn I Ngày sinh 05/03/1988 Nơi sinh Bệnh viện Đại học Y Hà Nội",2
+"Thẻ bảo hiểm y tế Mã thẻ 987654321098 Tên Trần Thị J Ngày sinh 20/07/1992 Công ty Bảo hiểm Bảo Việt",2
+"Bằng đại học Đại học Bách Khoa Hà Nội Chuyên ngành Công nghệ Thông tin Năm tốt nghiệp 2015 Học sinh Lê Văn K",2
+"Giấy xác nhận Xác nhận ông/bà Nguyễn Văn A làm việc tại Công ty TNHH ABC từ ngày 01/01/2020 đến nay",3
+"Thư mời họp Kính gửi Quý vị Nội dung cuộc họp Thảo luận kế hoạch năm 2024 Thời gian 10h00 ngày 15/02/2024 Địa điểm Phòng họp A",3
+"Đơn xin nghỉ phép Kính gửi Ban Giám đốc Tôi xin nghỉ phép từ ngày 20/02 đến 25/02/2024 Lý do Nghỉ phép hàng năm",3
+"Giấy chứng nhận đạt chuẩn ISO 9001:2015 Công ty TNHH ABC được cấp chứng nhận vào ngày 01/01/2023 Có hiệu lực đến 31/12/2025",3
+"Thư báo tin tuyển dụng Vị trí Lập trình viên Senior Yêu cầu 5 năm kinh nghiệm Lương 50-70 triệu/tháng",3
+"Giấy phép kinh doanh Công ty TNHH ABC được cấp phép vào ngày 15/03/2020 Lĩnh vực Phần mềm và Dịch vụ CNTT",3
+"Biên bản họp Cuộc họp ngày 10/02/2024 Những người dự họp Giám đốc Trưởng phòng Nội dung thảo luận Kế hoạch Q1",3
+"Thư yêu cầu báo cáo Yêu cầu các phòng ban báo cáo kết quả công việc tháng 1 trước ngày 05/02/2024",3
+"Giấy xác nhận tình trạng hôn nhân Xác nhận ông Nguyễn Văn A hiện tại đang độc thân Cấp ngày 01/02/2024",3
+"Chứng chỉ tiếng Anh TOEIC Điểm số 900 Ngày thi 15/01/2024 Có hiệu lực 3 năm Tổ chức cấp ETS",3
+"Thư cảm ơn Cảm ơn sự hỗ trợ của anh/chị trong dự án vừa rồi Đây là những đóng góp quý báu cho công ty",3
+"Quyết định bổ nhiệm Quyết định bổ nhiệm ông Nguyễn Văn L làm Giám đốc Công ty ABC từ ngày 01/03/2024",3
+"Thư từ chối hợp đồng Thật tiếc chúng tôi không thể ký kết hợp đồng với công ty quý vị lần này Cảm ơn sự quan tâm",3
+"Bằng cấp 2 Trường THCS Nguyễn Du Năm tốt nghiệp 2010 Học sinh Trần Văn I Xếp loại Giỏi",3
+"Chứng chỉ thợ hàn ASME Cấp ngày 20/05/2022 Có hiệu lực 5 năm Người đạt chứng chỉ Võ Văn K",3
+"Giấy chứng nhận hoàn thành khóa đào tạo Khóa đào tạo Quản lý dự án Học viên Phạm Thị M Điểm trung bình 8.5/10",3
+"Thư xin việc Kính gửi Ban Nhân sự Tôi xin gửi đơn ứng tuyển vị trí Lập trình viên Với kinh nghiệm 3 năm trong lĩnh vực này",3
+"Hóa đơn GTGT số 789 tổng tiền 15.000.000 thuế 1.500.000 ngày 25/01/2024",0
+"Hóa đơn dịch vụ Công ty viễn thông Viettel Tháng 03/2024 Phí dịch vụ 600.000 VAT 54.000 Tổng 654.000",0
+"Hóa đơn bán sách Nhà sách Fahasa Ngày 28/01/2024 Sách Lập trình Python Số lượng 3 Đơn giá 120.000 Tổng 360.000",0
+"Hóa đơn bán thực phẩm Siêu thị Aeon Ngày 30/01/2024 Các mặt hàng Rau xanh Hải sản Đồ uống Tổng 2.850.000",0
+"Hóa đơn khám và điều trị Phòng khám Đa khoa Trung Tâm Bệnh viên Bạch Mai Ngày 15/01/2024 Khám tổng quát 300.000 Siêu âm 200.000 Tổng 500.000",0
+"Hóa đơn vé máy bay Hãng hàng không Vietnam Airlines Ngày 20/01/2024 Hành trình Hà Nội TP.HCM Giá vé 2.500.000 Phí bảo hiểm 150.000 Tổng 2.650.000",0
+"Hóa đơn phòng khách sạn Khách sạn Sofitel Legend Metropole Hà Nội Ngày nhận phòng 25/01/2024 Loại phòng Deluxe Số đêm 3 Giá 5.000.000/đêm Tổng 15.000.000",0
+"Hóa đơn dịch vụ cắt tóc Tiệm cắt tóc Hair Salon Ngày 28/01/2024 Dịch vụ Cắt tóc nam Nhuộm tóc Giá 500.000 Tiền boa 50.000 Tổng 550.000",0
+"Hợp đồng thuê kho Bên chủ kho Công ty ABC Bên thuê Công ty XYZ Diện tích 1000m2 Giá thuê 50.000/m2/tháng Thời hạn 24 tháng Tổng giá trị 1.200.000.000",1
+"Hợp đồng cung cấp thực phẩm Bên cung cấp Công ty Nông sản Việt Bên sử dụng Công ty nhà hàng Loại thực phẩm Rau xanh Hải sản Giá trị 500.000.000/tháng",1
+"Hợp đồng duy trì bảo hành Bên cung cấp dịch vụ Công ty IT Pro Bên sử dụng Công ty XYZ Phạm vi Bảo hành hệ thống máy tính Thời hạn 24 tháng Giá 120.000.000",1
+"Hợp đồng quảng cáo Bên cung cấp dịch vụ Công ty Quảng cáo Digital Bên sử dụng Công ty XYZ Nội dung Quảng cáo trên mạng xã hội Thời hạn 6 tháng Giá 200.000.000",1
+"Hợp đồng huấn luyện Bên huấn luyện Công ty Tập huấn Nhân lực Bên tham gia Công ty XYZ Nội dung Huấn luyện Quản lý Thời hạn 1 tháng Giá 100.000.000",1
+"CMND số 098765432 cấp lần đầu ngày 15/03/2005 Nơi cấp CA TP.HCM Họ tên Dương Văn L Ngày sinh 25/12/1987",2
+"Căn cước công dân số 012345678901 cấp ngày 20/05/2021 Nơi cấp CA Đà Nẵng Họ tên Hoàng Thị M Ngày sinh 10/08/1993",2
+"Passport Số hộ chiếu P12345678 Quốc gia Việt Nam Họ tên Phạm Văn N Ngày sinh 30/04/1990 Giới tính Nam Nơi cấp Sở Ngoại vụ Hà Nội",2
+"Bằng thạc sĩ Đại học Quốc gia Hà Nội Chuyên ngành Khoa học Máy tính Năm tốt nghiệp 2018 Học sinh Nguyễn Thị O",2
+"Giấy phép lái xe quốc tế IDP Cấp ngày 01/02/2020 Giá trị đến 01/02/2025 Tên Trần Văn P Quốc tịch Việt Nam",2
+"Thư giới thiệu công ty Giới thiệu về Công ty TNHH ABC Thành lập năm 2015 Lĩnh vực hoạt động Công nghệ thông tin Quy mô 200 nhân viên",3
+"Giấy đăng ký kinh doanh Công ty TNHH ABC được đăng ký kinh doanh vào ngày 15/05/2015 Mã số doanh nghiệp 0123456789 Ngành nghề kinh doanh Xây dựng phần mềm",3
+"Biên bản kiểm toán Cuộc kiểm toán năm 2023 Công ty Kiểm toán Độc lập ABC Ngày 28/02/2024 Kết luận Báo cáo tài chính hợp lệ",3
+"Thư báo nộp hồ sơ Kính gửi ứng viên Chúng tôi đã nhận được hồ sơ của bạn Chúng tôi sẽ liên hệ trong 5-7 ngày làm việc",3
+"Giấy chứng nhận lao động Xác nhận ông Lê Văn Q đã hoàn thành quân dịch từ 01/01/2018 đến 31/12/2019 Cấp ngày 15/01/2020 Nơi cấp Bộ Quốc phòng",3
