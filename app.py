@@ -69,8 +69,10 @@ def health():
     return jsonify({'status': 'healthy'}), 200
 
 if __name__ == '__main__':
-    print("\n Server starting at http://localhost:5000")
-    print("📡 Endpoints:")
+    import os
+    port = int(os.environ.get('PORT', 5000))
+    print(f"\n Server starting at http://0.0.0.0:{port}")
+    print(" Endpoints:")
     print("   - POST /classify")
     print("   - GET  /health")
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=port, debug=False)
